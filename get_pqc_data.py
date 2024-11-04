@@ -64,11 +64,10 @@ def get_pqc_response_data(json, types_as_int: bool):
 def get_adverse_flags_response_data(company_number: str, adverse_flags: List, types_as_int: bool):
     adverse_flags_response_data = []
     for pqc_type, pqc_subtype in TYPES_AND_SUBTYPES:
-        if not types_as_int:
-            pqc_subtype = SUBTYPE_DESCRIPTIONS[pqc_type][pqc_subtype]
-            pqc_type = TYPE_DESCRIPTIONS[pqc_type]
+        pqc_subtype_label = SUBTYPE_DESCRIPTIONS[pqc_type][pqc_subtype] if not types_as_int else pqc_subtype
+        pqc_type_label = TYPE_DESCRIPTIONS[pqc_type] if not types_as_int else pqc_type
 
-        adverse_flags_response_data.append([company_number, pqc_type, pqc_subtype, any(
+        adverse_flags_response_data.append([company_number, pqc_type_label, pqc_subtype_label, any(
             adverse_flag['type'] == pqc_type and any(
                 adverse['sub_type'] == pqc_subtype for adverse in adverse_flag['data']) for adverse_flag in
             adverse_flags)])

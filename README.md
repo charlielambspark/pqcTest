@@ -47,12 +47,12 @@ Example **output.csv** with **text** flag:
 
 ```csv
 CompanyNumber,Type,Subtype,Result
-00004606,Associated Business,Associated Business Insolvency,False
+00004606,Associated Business,Associated Business Insolvency,True
 00004606,Associated Business,HM Court Data,False
 00004606,Associated Business,Charges on other businesses,False
 00004606,Business,CCJ (Business),False
 00004606,Business,Director resignations,False
-00004606,Business,Accounts Overdue,False
+00004606,Business,Accounts Overdue,True
 00004606,Business,Incorporation Date,False
 00004606,Business,Adverse SIC Code,False
 ```
