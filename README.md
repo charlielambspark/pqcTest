@@ -5,13 +5,13 @@
 Run this script with the following command.
 
 ```shell
-python3 main.py <input_file> <output_file>
+python main.py <input_file> <output_file>
 ```
 
 To get the output flag types and subtypes in their text form add the **text** flag.
 
 ```shell
-python3 main.py <input_file> <output_file> --text
+python main.py <input_file> <output_file> --text
 ```
 
 ## Input file

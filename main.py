@@ -1,9 +1,10 @@
 import sys
+import requests
 
-from get_pqc_data import get_pqc_data
-from parse_input import parse_input
-from validate_types import validate_types
-from write_to_csv import write_to_csv
+from lib.get_pqc_data import get_pqc_data
+from lib.parse_input import parse_input
+from lib.validate_types import validate_types
+from lib.write_to_csv import write_to_csv
 
 
 def main():

@@ -72,7 +72,7 @@ CompanyNumber,Type,Subtype,Result
 04321532,Business,Adverse SIC Code,False
 04321532,Director,Director bankruptcy,False
 04321532,Director,Director disqualifications,False
-04321532,Director,Director country of residence,True
+04321532,Director,Director country of residence,False
 04321532,Director,Director nationality,False
 04321532,Director,Director average age,False
 04321532,Director,Director Personal Insolvency,False
@@ -93,7 +93,7 @@ CompanyNumber,Type,Subtype,Result
 04322134,Business,Adverse SIC Code,False
 04322134,Director,Director bankruptcy,False
 04322134,Director,Director disqualifications,False
-04322134,Director,Director country of residence,True
+04322134,Director,Director country of residence,False
 04322134,Director,Director nationality,False
 04322134,Director,Director average age,False
 04322134,Director,Director Personal Insolvency,False
@@ -114,7 +114,7 @@ CompanyNumber,Type,Subtype,Result
 04322453,Business,Adverse SIC Code,False
 04322453,Director,Director bankruptcy,False
 04322453,Director,Director disqualifications,False
-04322453,Director,Director country of residence,True
+04322453,Director,Director country of residence,False
 04322453,Director,Director nationality,True
 04322453,Director,Director average age,False
 04322453,Director,Director Personal Insolvency,False
@@ -156,7 +156,7 @@ CompanyNumber,Type,Subtype,Result
 04322757,Business,Adverse SIC Code,False
 04322757,Director,Director bankruptcy,False
 04322757,Director,Director disqualifications,False
-04322757,Director,Director country of residence,True
+04322757,Director,Director country of residence,False
 04322757,Director,Director nationality,False
 04322757,Director,Director average age,False
 04322757,Director,Director Personal Insolvency,False
@@ -177,7 +177,7 @@ CompanyNumber,Type,Subtype,Result
 04322772,Business,Adverse SIC Code,False
 04322772,Director,Director bankruptcy,False
 04322772,Director,Director disqualifications,False
-04322772,Director,Director country of residence,True
+04322772,Director,Director country of residence,False
 04322772,Director,Director nationality,False
 04322772,Director,Director average age,False
 04322772,Director,Director Personal Insolvency,False
@@ -303,7 +303,7 @@ CompanyNumber,Type,Subtype,Result
 04324395,Business,Adverse SIC Code,False
 04324395,Director,Director bankruptcy,False
 04324395,Director,Director disqualifications,False
-04324395,Director,Director country of residence,True
+04324395,Director,Director country of residence,False
 04324395,Director,Director nationality,False
 04324395,Director,Director average age,False
 04324395,Director,Director Personal Insolvency,False
@@ -366,7 +366,7 @@ CompanyNumber,Type,Subtype,Result
 04324694,Business,Adverse SIC Code,False
 04324694,Director,Director bankruptcy,False
 04324694,Director,Director disqualifications,False
-04324694,Director,Director country of residence,True
+04324694,Director,Director country of residence,False
 04324694,Director,Director nationality,False
 04324694,Director,Director average age,False
 04324694,Director,Director Personal Insolvency,False
@@ -429,7 +429,7 @@ CompanyNumber,Type,Subtype,Result
 04327639,Business,Adverse SIC Code,False
 04327639,Director,Director bankruptcy,False
 04327639,Director,Director disqualifications,False
-04327639,Director,Director country of residence,True
+04327639,Director,Director country of residence,False
 04327639,Director,Director nationality,False
 04327639,Director,Director average age,False
 04327639,Director,Director Personal Insolvency,False
@@ -471,7 +471,7 @@ CompanyNumber,Type,Subtype,Result
 04327830,Business,Adverse SIC Code,False
 04327830,Director,Director bankruptcy,False
 04327830,Director,Director disqualifications,False
-04327830,Director,Director country of residence,True
+04327830,Director,Director country of residence,False
 04327830,Director,Director nationality,False
 04327830,Director,Director average age,True
 04327830,Director,Director Personal Insolvency,False
@@ -492,7 +492,7 @@ CompanyNumber,Type,Subtype,Result
 04328146,Business,Adverse SIC Code,False
 04328146,Director,Director bankruptcy,False
 04328146,Director,Director disqualifications,False
-04328146,Director,Director country of residence,True
+04328146,Director,Director country of residence,False
 04328146,Director,Director nationality,True
 04328146,Director,Director average age,False
 04328146,Director,Director Personal Insolvency,False
@@ -534,7 +534,7 @@ CompanyNumber,Type,Subtype,Result
 04328404,Business,Adverse SIC Code,False
 04328404,Director,Director bankruptcy,False
 04328404,Director,Director disqualifications,False
-04328404,Director,Director country of residence,True
+04328404,Director,Director country of residence,False
 04328404,Director,Director nationality,False
 04328404,Director,Director average age,False
 04328404,Director,Director Personal Insolvency,False
@@ -555,7 +555,7 @@ CompanyNumber,Type,Subtype,Result
 04328962,Business,Adverse SIC Code,False
 04328962,Director,Director bankruptcy,False
 04328962,Director,Director disqualifications,False
-04328962,Director,Director country of residence,True
+04328962,Director,Director country of residence,False
 04328962,Director,Director nationality,False
 04328962,Director,Director average age,False
 04328962,Director,Director Personal Insolvency,False
@@ -576,7 +576,7 @@ CompanyNumber,Type,Subtype,Result
 04329149,Business,Adverse SIC Code,False
 04329149,Director,Director bankruptcy,False
 04329149,Director,Director disqualifications,False
-04329149,Director,Director country of residence,True
+04329149,Director,Director country of residence,False
 04329149,Director,Director nationality,False
 04329149,Director,Director average age,True
 04329149,Director,Director Personal Insolvency,False
@@ -597,7 +597,7 @@ CompanyNumber,Type,Subtype,Result
 04329171,Business,Adverse SIC Code,False
 04329171,Director,Director bankruptcy,False
 04329171,Director,Director disqualifications,False
-04329171,Director,Director country of residence,True
+04329171,Director,Director country of residence,False
 04329171,Director,Director nationality,False
 04329171,Director,Director average age,True
 04329171,Director,Director Personal Insolvency,False
@@ -639,7 +639,7 @@ CompanyNumber,Type,Subtype,Result
 04329827,Business,Adverse SIC Code,False
 04329827,Director,Director bankruptcy,False
 04329827,Director,Director disqualifications,False
-04329827,Director,Director country of residence,True
+04329827,Director,Director country of residence,False
 04329827,Director,Director nationality,False
 04329827,Director,Director average age,True
 04329827,Director,Director Personal Insolvency,False
@@ -723,7 +723,7 @@ CompanyNumber,Type,Subtype,Result
 04330278,Business,Adverse SIC Code,False
 04330278,Director,Director bankruptcy,False
 04330278,Director,Director disqualifications,False
-04330278,Director,Director country of residence,True
+04330278,Director,Director country of residence,False
 04330278,Director,Director nationality,True
 04330278,Director,Director average age,True
 04330278,Director,Director Personal Insolvency,False
@@ -744,7 +744,7 @@ CompanyNumber,Type,Subtype,Result
 04330732,Business,Adverse SIC Code,False
 04330732,Director,Director bankruptcy,False
 04330732,Director,Director disqualifications,False
-04330732,Director,Director country of residence,True
+04330732,Director,Director country of residence,False
 04330732,Director,Director nationality,False
 04330732,Director,Director average age,True
 04330732,Director,Director Personal Insolvency,False
@@ -765,7 +765,7 @@ CompanyNumber,Type,Subtype,Result
 04330786,Business,Adverse SIC Code,False
 04330786,Director,Director bankruptcy,False
 04330786,Director,Director disqualifications,False
-04330786,Director,Director country of residence,True
+04330786,Director,Director country of residence,False
 04330786,Director,Director nationality,False
 04330786,Director,Director average age,True
 04330786,Director,Director Personal Insolvency,False
@@ -786,7 +786,7 @@ CompanyNumber,Type,Subtype,Result
 04330991,Business,Adverse SIC Code,False
 04330991,Director,Director bankruptcy,True
 04330991,Director,Director disqualifications,False
-04330991,Director,Director country of residence,True
+04330991,Director,Director country of residence,False
 04330991,Director,Director nationality,False
 04330991,Director,Director average age,False
 04330991,Director,Director Personal Insolvency,True
@@ -828,7 +828,7 @@ CompanyNumber,Type,Subtype,Result
 04331087,Business,Adverse SIC Code,False
 04331087,Director,Director bankruptcy,False
 04331087,Director,Director disqualifications,False
-04331087,Director,Director country of residence,True
+04331087,Director,Director country of residence,False
 04331087,Director,Director nationality,False
 04331087,Director,Director average age,False
 04331087,Director,Director Personal Insolvency,False
@@ -849,7 +849,7 @@ CompanyNumber,Type,Subtype,Result
 04331204,Business,Adverse SIC Code,False
 04331204,Director,Director bankruptcy,False
 04331204,Director,Director disqualifications,False
-04331204,Director,Director country of residence,True
+04331204,Director,Director country of residence,False
 04331204,Director,Director nationality,False
 04331204,Director,Director average age,False
 04331204,Director,Director Personal Insolvency,False
@@ -870,7 +870,7 @@ CompanyNumber,Type,Subtype,Result
 04331329,Business,Adverse SIC Code,False
 04331329,Director,Director bankruptcy,False
 04331329,Director,Director disqualifications,False
-04331329,Director,Director country of residence,True
+04331329,Director,Director country of residence,False
 04331329,Director,Director nationality,False
 04331329,Director,Director average age,False
 04331329,Director,Director Personal Insolvency,False
@@ -901,7 +901,7 @@ CompanyNumber,Type,Subtype,Result
 04331338,Financials,Negative Audit report,False
 04331338,Financials,Negative Balance Sheet,False
 04331338,Financials,Estimated Losses,False
-04331338,Financials,Substantial Debts,True
+04331338,Financials,Substantial Debts,False
 04331407,Associated Business,Associated Business Insolvency,False
 04331407,Associated Business,HM Court Data,False
 04331407,Associated Business,Charges on other businesses,False
@@ -912,7 +912,7 @@ CompanyNumber,Type,Subtype,Result
 04331407,Business,Adverse SIC Code,False
 04331407,Director,Director bankruptcy,False
 04331407,Director,Director disqualifications,False
-04331407,Director,Director country of residence,True
+04331407,Director,Director country of residence,False
 04331407,Director,Director nationality,False
 04331407,Director,Director average age,False
 04331407,Director,Director Personal Insolvency,False
@@ -933,7 +933,7 @@ CompanyNumber,Type,Subtype,Result
 04331486,Business,Adverse SIC Code,False
 04331486,Director,Director bankruptcy,False
 04331486,Director,Director disqualifications,False
-04331486,Director,Director country of residence,True
+04331486,Director,Director country of residence,False
 04331486,Director,Director nationality,False
 04331486,Director,Director average age,True
 04331486,Director,Director Personal Insolvency,False
@@ -954,7 +954,7 @@ CompanyNumber,Type,Subtype,Result
 04331595,Business,Adverse SIC Code,False
 04331595,Director,Director bankruptcy,False
 04331595,Director,Director disqualifications,False
-04331595,Director,Director country of residence,True
+04331595,Director,Director country of residence,False
 04331595,Director,Director nationality,False
 04331595,Director,Director average age,False
 04331595,Director,Director Personal Insolvency,False
@@ -1059,7 +1059,7 @@ CompanyNumber,Type,Subtype,Result
 04333039,Business,Adverse SIC Code,False
 04333039,Director,Director bankruptcy,False
 04333039,Director,Director disqualifications,False
-04333039,Director,Director country of residence,True
+04333039,Director,Director country of residence,False
 04333039,Director,Director nationality,False
 04333039,Director,Director average age,False
 04333039,Director,Director Personal Insolvency,False
@@ -1080,7 +1080,7 @@ CompanyNumber,Type,Subtype,Result
 04333466,Business,Adverse SIC Code,False
 04333466,Director,Director bankruptcy,False
 04333466,Director,Director disqualifications,False
-04333466,Director,Director country of residence,True
+04333466,Director,Director country of residence,False
 04333466,Director,Director nationality,False
 04333466,Director,Director average age,False
 04333466,Director,Director Personal Insolvency,False
