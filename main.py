@@ -1,5 +1,4 @@
 import sys
-import requests
 
 from lib.get_pqc_data import get_pqc_data
 from lib.parse_input import parse_input

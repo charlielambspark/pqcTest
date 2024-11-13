@@ -9,7 +9,7 @@ def get_pqc_data(company_numbers: List[str], types_as_int=True):
     pqc_data = [
         ['CompanyNumber', 'Type', 'Subtype', 'Result']]
     for company_number in company_numbers:
-        response = requests.get(f"{DEV_PQC_URL}Pqc/{company_number}/{OPPORTUNITY_NUMBER}/{USER_ID}")
+        response = requests.get(f"{DEV_PQC_URL}Pqc/{company_number}/{OPPORTUNITY_NUMBER}/{USER_ID}/true")
         json = response.json()
         pqc_data += get_pqc_response_data(json, types_as_int)
     return pqc_data
