@@ -8,10 +8,17 @@ from lib.constants import DEV_PQC_URL, OPPORTUNITY_NUMBER, USER_ID, TYPES_AND_SU
 def get_pqc_data(company_numbers: List[str], types_as_int=True):
     pqc_data = [
         ['CompanyNumber', 'Type', 'Subtype', 'Result']]
-    for company_number in company_numbers:
-        response = requests.get(f"{DEV_PQC_URL}Pqc/{company_number}/{OPPORTUNITY_NUMBER}/{USER_ID}/true")
-        json = response.json()
-        pqc_data += get_pqc_response_data(json, types_as_int)
+    for i, company_number in enumerate(company_numbers):
+        try:
+            if len(company_number) == 7:
+                company_number = "0" + company_number
+            if (i % 10) == 0:
+                print(f"Fetching {i}/{len(company_numbers)}")
+            response = requests.get(f"{DEV_PQC_URL}Pqc/{company_number}/{OPPORTUNITY_NUMBER}/{USER_ID}/true")
+            json = response.json()
+            pqc_data += get_pqc_response_data(json, types_as_int)
+        except Exception as e:
+            print(f"Error fetching data for company number {company_number}: {str(e)}")
     return pqc_data
 
 
