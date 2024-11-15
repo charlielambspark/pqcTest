@@ -1,4 +1,5 @@
 DEV_PQC_URL = 'https://dev-pre-qualification-check-api.clover-technology.co.uk:6443/'
+STAGING_PQC_URL = 'https://dev-staging-pre-qualification-check-api.clover-technology.co.uk:6443/'
 OPPORTUNITY_NUMBER = '223'
 USER_ID = '1000877'
 
